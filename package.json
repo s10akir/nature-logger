@@ -5,6 +5,7 @@
   "author": "Akira Shinohara <akira.shinohara@mojamoja.cloud>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "mongodb": "^3.6.2"
   }
 }
